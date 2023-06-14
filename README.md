@@ -1,11 +1,15 @@
 # Comandos Git
 
+### Configurar Git
+
+
+### Criar Pastas e Arquivos
 Criar pasta: <br>
-`mkdir git`(nome da pasta) 
+`mkdir nome da pasta` 
 <br>
 <br>
 Entrar na pasta:<br>
-`cd git`(nome da pasta)
+`cd nome da pasta`
 <br>
 <br>
 Criar Arquivo<br>
@@ -38,6 +42,14 @@ Criar branch<br>
 <br>
 Conectar a pasta ao repositório<br>
 `git remote add origin https://github.com/renatasilvestr3/git.git`
-
+<br>
+<br>
 Subir arquivo para o repositório <br>
 `git push -u origin main`
+<br>
+<br>
+### Clonar repositório
+<br>
+Clonar o repositório <br>
+`git clone (+ url do repostótio)`
+
